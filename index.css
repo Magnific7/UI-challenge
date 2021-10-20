@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,700;0,900;1,100&display=swap");
+.container {
+  width: 100%;
+  height: 100%;
+}
+.navbar {
+  margin: 27px 129px 0 130px;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  font: normal normal normal 16px/25px Poppins !important;
+}
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+}
+li {
+  padding: 10px;
+  font: normal normal normal 16px/25px Poppins;
+  font-size: 14px;
+}
+.navs {
+  color: #acb8c1;
+  opacity: 1;
+}
+.button-contact {
+  background: #1b27af 0% 0% no-repeat padding-box;
+  width: 189px;
+  height: 50px;
+  text-align: center;
+  border-radius: 6px;
+  opacity: 1;
+  letter-spacing: 0px;
+  color: #00ffeb;
+  text-transform: uppercase;
+}
+.home {
+  letter-spacing: 0px;
+  font-weight: bold;
+  color: #00ffeb;
+  text-transform: uppercase;
+  opacity: 1;
+}
+.lot-logo {
+  float: inline-start;
+  width: 129px;
+  height: 50px;
+  margin-right: auto !important;
+}
+.page1 {
+  font-family: "Poppins", sans-serif;
+  margin: 182px 318px 0 318px;
+  text-align: center;
+}
+.title-words1 {
+  letter-spacing: 0px;
+  font-weight: bold;
+  color: #1769ff;
+  text-transform: capitalize;
+  opacity: 1;
+}
+.paragraph1 {
+  text-align: center;
+  letter-spacing: 0px;
+  color: #413333;
+  opacity: 1;
+  padding: 30px;
+  font: normal normal normal 15px/20px Poppins;
+}
+.getHired {
+  background: transparent;
+  width: 189px;
+  height: 50px;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 6px;
+  opacity: 1;
+  letter-spacing: 0px;
+  color: #ffff;
+  text-transform: uppercase;
+}
